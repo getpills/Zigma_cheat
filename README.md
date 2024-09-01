@@ -7,7 +7,8 @@ external CS2 cheat with ESP and aimbot functions. using kernel driver to read me
 - [functions](#functions)
 - [using](#binds)
 - [requirements](#requirements)
-- [Team](#Team)
+- [build](#build)
+- [team](#team)
 
 ## functions
 ### esp
