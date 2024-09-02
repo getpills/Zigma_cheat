@@ -20,7 +20,7 @@ external CS2 cheat with ESP and aimbot functions. using kernel driver to read me
 - change scope speed
 - spray control system
 ### other
-- bunny hope
+- bunny hop
 - triggerbot
 
 ## using
@@ -31,7 +31,7 @@ after CS2 updates you should update offsets from [this](https://github.com/a2x/c
 - open menu: insert
 - aimbot: mouse4
 - triggerbot: mouse4
-- bunny hope: mouse5
+- bunny hop: mouse5
 
 ## requirements 
 works only from Windows 10 1607 to Windows 11 22449.1
